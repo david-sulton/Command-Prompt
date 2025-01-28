@@ -47,7 +47,9 @@ youtube link: https://www.youtube.com/watch?v=Jfvg3CS1X3A
 ---end---
 
 ### More commands...
-```powershell -ex bypass ``` get to powershell from cmd window
+    powershell -ex bypass  #get to powershell from cmd window
+    winget upgrade --all   #update all applications in windows
+    
 
   
 
