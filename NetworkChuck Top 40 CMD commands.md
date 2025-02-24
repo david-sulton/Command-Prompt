@@ -46,6 +46,7 @@ youtube link: https://www.youtube.com/watch?v=Jfvg3CS1X3A
 
 ---end---
 
+    shutdown /s /f /t 0 #Shutdown system, Force close applications, set Time/delay to 0(now)
 ### More commands...
     powershell -ex bypass  #get to powershell from cmd window
     winget upgrade --all   #update all applications in windows
